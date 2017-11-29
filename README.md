@@ -1,18 +1,18 @@
-# Dev Portfolio
+# Meu Portfolio
 
-This repo contains my portifolio website
+Este repositorio contem meu Portfolio 
 
 ## Features
 
-*About
+*Bio
 
-*Experience
+*Experiência
 
-*Education
+*Educação
 
-*Projects
+*Projetos
 
-*Skills
+*Habilidades
 
-*Contact
+*Contato
 
