@@ -555,27 +555,27 @@ footer{
 }
 
 .project .button{
-	padding:5px 15px 5px 15px;
-	text-decoration: none;
-	display: inline-block;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
-	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
-	border-bottom: 1px solid rgba(0,0,0,0.25);
-	outline:none;
-	position:relative;
-	margin:10px;
+        padding:5px 15px 5px 15px;
+        text-decoration: none;
+        display: inline-block;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+        border-bottom: 1px solid rgba(0,0,0,0.25);
+        outline:none;
+        position:relative;
+        margin:10px;
 	padding:10px 50px;
-	background:transparent url(buttonover.png) repeat-x top left;
-	white-space:nowrap;
+        background:transparent url(buttonover.png) repeat-x top left;
+        white-space:nowrap;
 	border-radius:16px;
 	font-size:16px;
-}
+	transition:.5s ease all
 
 .project .button:hover, a:visited{
 	color: #FFF;
-	background-color: #82adcc;
+	background-color: rgba(0, 38, 68, 0.5);
 	text-decoration: none;
 }
 .project .button:active{
