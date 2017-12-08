@@ -16,3 +16,7 @@ Este repositorio contem meu [Portfolio](https://edulima2412.github.io/portfolio/
 
 *Contato
 
+# Preview Desktop
+
+
+![photo](https://github.com/edulima2412/portfolio/blob/master/images/1.png)
