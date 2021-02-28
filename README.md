@@ -9,7 +9,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://edulima2412.github.io" target="_blank">
+    <a href="https://edulima2412.github.io" target="_blank"><img src="/assets/img/preview.gif">
   </a>
   </kbd>
 </p>
@@ -30,7 +30,7 @@
 - Para implantar seu site, primeiro você precisa criar o repositório do Github com o nome <your-github-username>.github.io e coloacar o código gerado para a branch master.
 
 ## Seções 📚
-✔️ Sobre mim\
+✔️ Bio\
 ✔️ Experiência\
 ✔️ Projetos\
 ✔️ Habilidades\
