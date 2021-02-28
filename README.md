@@ -58,3 +58,6 @@
 #### Passo 3
 
 - 🔃 Crie um novo pull request.
+
+## Licença 📃
+Este projeto é licenciado sob a Licença do MIT - consulte o arquivo [LICENSE.md](./LICENSE) para obter detalhes.
