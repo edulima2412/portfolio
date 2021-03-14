@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/edulima2412/portfolio) 
 ![GitHub forks](https://img.shields.io/github/forks/edulima2412/portfolio)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/edulima2412/portfolio/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://edulima2412.github.io/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
